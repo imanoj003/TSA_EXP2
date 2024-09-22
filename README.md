@@ -1,9 +1,9 @@
 
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 
-## NAME :A.ANBUSELVAM
-## REG NO:212222240009
-## DATE:25-08-2024
+## NAME : Manoj M
+## REG NO:212221240027
+## DATE:18-09-2024
 
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
